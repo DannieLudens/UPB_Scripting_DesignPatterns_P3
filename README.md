@@ -26,6 +26,10 @@ La solución a cada ejercicio está implementada como una **escena individual**,
 
 ---
 
+Ejecutable: [Link al ejecutable del taller3](https://drive.google.com/drive/folders/1qQHD1EXEDGToh1IPXWoDsso4r_MccTH2?usp=sharing)
+
+---
+
 ## ✅ Escena 1 - Ejercicio 1 – Instanciación con Factory y Facade
 
 ### 🎯 Objetivo
