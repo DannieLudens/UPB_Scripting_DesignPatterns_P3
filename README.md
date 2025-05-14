@@ -51,6 +51,30 @@ Permitir seleccionar uno de tres tipos de objetos (`Cubo`, `Esfera`, `Cápsula`)
 
 ---
 
+### 📂 Estructura del ejerciio
+
+```
+
+Assets/
+├── Prefabs/
+│   ├── RedCube.prefab
+│   ├── GreenSphere.prefab
+│   └── BlueCapsule.prefab
+├── Scenes/
+│   ├── FactoryScene.unity
+├── Scripts/
+│   ├── IShapeFactory.cs
+│   ├── CubeFactory.cs
+│   ├── SphereFactory.cs
+│   ├── CapsuleFactory.cs
+│   ├── ShapeFacade.cs
+│   ├── ShapeManager.cs
+│   └── ButtonSelector.cs
+
+```
+
+---
+
 ### 🧠 Scripts explicados
 
 #### 🔹 `IShapeFactory.cs` Clase Interfaz
