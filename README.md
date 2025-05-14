@@ -299,7 +299,7 @@ Simular una mecánica de disparo con tres tipos de proyectiles, cada uno con un 
 
 ---
 
-### 📂 Estructura esperada
+### 📂 Estructura del proyecto
 
 ```
 
@@ -324,5 +324,4 @@ Assets/
 
 ---
 
-```
 
